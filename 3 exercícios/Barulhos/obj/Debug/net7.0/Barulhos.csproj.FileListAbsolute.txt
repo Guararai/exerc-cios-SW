@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Barulhos\bin\Debug\net7.0\Barulhos.exe
+C:\Users\LAB4\Desktop\Barulhos\bin\Debug\net7.0\Barulhos.deps.json
+C:\Users\LAB4\Desktop\Barulhos\bin\Debug\net7.0\Barulhos.runtimeconfig.json
+C:\Users\LAB4\Desktop\Barulhos\bin\Debug\net7.0\Barulhos.dll
+C:\Users\LAB4\Desktop\Barulhos\bin\Debug\net7.0\Barulhos.pdb
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.dll
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\refint\Barulhos.dll
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.pdb
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\Barulhos.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Barulhos\obj\Debug\net7.0\ref\Barulhos.dll
